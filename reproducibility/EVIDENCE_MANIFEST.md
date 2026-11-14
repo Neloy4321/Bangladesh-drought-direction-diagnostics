@@ -25,6 +25,8 @@ These are cryptographic digests of archived files; the *full raw checkpoints the
 | `Existing_Field_CCM_Support_Snapshot.csv` | `dccaa56b7049f23eba45b3a24bcf6543ccedba966eab09a7b9252397086c9dbd` |
 | `Official_Config.json` | `f2f9163c5885cedfdeadb9e4c4ebbc56f91c3380e05f9a61ed117fe1ee2187d4` |
 
+**Byte-level distinction:** The public `results/official/Official_Final_Summary.csv` is a normalized, numerically equivalent transcription of the completed 72-row summary (same attempted/eligible/detected counts and derived fractions); it is **not guaranteed byte-for-byte identical** to the author's original Kaggle CSV. The SHA-256 digests above identify the **original unmodified files inside the archived Kaggle ZIP**, not the GitHub-normalized copy. Use the supplied raw archive if an exact SHA or p-value rerun is required.
+
 The raw archive was independently read after execution: all **72** summary rows matched the raw per-evaluation counts, and 10,800 finite CCM p-values matched reference-null recalculation to floating-point precision. This is a computational-consistency check, **not** a scientific proof of causality.
 
 ## How to verify
