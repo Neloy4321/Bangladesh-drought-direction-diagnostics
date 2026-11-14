@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 520" width="1080" height="520">
+<rect width="1080" height="520" fill="white"/>
+<text x="45" y="48" font-size="25" font-family="Arial" font-weight="bold" fill="#203047">Available NDVI anomalies by calendar month</text>
+<text x="45" y="76" font-family="Arial" font-size="13" fill="#5e6c7a">Bangladesh 36-station analysis panel, 2015–June 2026: valid station-month share</text>
+<line x1="95" y1="427" x2="1045" y2="427" stroke="#e7ebef"/><text x="75" y="431" font-size="12" font-family="Arial" text-anchor="end" fill="#5c6975">0%</text>
+<line x1="95" y1="361.6" x2="1045" y2="361.6" stroke="#e7ebef"/><text x="75" y="365.6" font-size="12" font-family="Arial" text-anchor="end" fill="#5c6975">20%</text>
+<line x1="95" y1="296.2" x2="1045" y2="296.2" stroke="#e7ebef"/><text x="75" y="300.2" font-size="12" font-family="Arial" text-anchor="end" fill="#5c6975">40%</text>
+<line x1="95" y1="230.8" x2="1045" y2="230.8" stroke="#e7ebef"/><text x="75" y="234.8" font-size="12" font-family="Arial" text-anchor="end" fill="#5c6975">60%</text>
+<line x1="95" y1="165.39999999999998" x2="1045" y2="165.39999999999998" stroke="#e7ebef"/><text x="75" y="169.39999999999998" font-size="12" font-family="Arial" text-anchor="end" fill="#5c6975">80%</text>
+<line x1="95" y1="100" x2="1045" y2="100" stroke="#e7ebef"/><text x="75" y="104" font-size="12" font-family="Arial" text-anchor="end" fill="#5c6975">100%</text>
+<rect x="120" y="207.486208" width="42" height="219.513792" fill="#326487"/><text x="141" y="450" font-size="12" text-anchor="middle" font-family="Arial" fill="#334155">Jan</text>
+<rect x="197" y="202.1875" width="42" height="224.8125" fill="#326487"/><text x="218" y="450" font-size="12" text-anchor="middle" font-family="Arial" fill="#334155">Feb</text>
+<rect x="274" y="195.375109" width="42" height="231.624891" fill="#326487"/><text x="295" y="450" font-size="12" text-anchor="middle" font-family="Arial" fill="#334155">Mar</text>
+<rect x="351" y="216.56945050000002" width="42" height="210.43054949999998" fill="#326487"/><text x="372" y="450" font-size="12" text-anchor="middle" font-family="Arial" fill="#334155">Apr</text>
+<rect x="428" y="277.8819505" width="42" height="149.11804949999998" fill="#326487"/><text x="449" y="450" font-size="12" text-anchor="middle" font-family="Arial" fill="#334155">May</text>
+<rect x="505" y="423.21527911" width="42" height="3.7847208900000004" fill="#326487"/><text x="526" y="450" font-size="12" text-anchor="middle" font-family="Arial" fill="#334155">Jun</text>
+<rect x="582" y="427" width="42" height="0" fill="#b8c3ce"/><text x="603" y="450" font-size="12" text-anchor="middle" font-family="Arial" fill="#334155">Jul</text>
+<rect x="659" y="427" width="42" height="0" fill="#b8c3ce"/><text x="680" y="450" font-size="12" text-anchor="middle" font-family="Arial" fill="#334155">Aug</text>
+<rect x="736" y="336.9924325" width="42" height="90.00756750000001" fill="#326487"/><text x="757" y="450" font-size="12" text-anchor="middle" font-family="Arial" fill="#334155">Sep</text>
+<rect x="813" y="209.82576219999999" width="42" height="217.17423780000001" fill="#326487"/><text x="834" y="450" font-size="12" text-anchor="middle" font-family="Arial" fill="#334155">Oct</text>
+<rect x="890" y="186.7045405" width="42" height="240.2954595" fill="#326487"/><text x="911" y="450" font-size="12" text-anchor="middle" font-family="Arial" fill="#334155">Nov</text>
+<rect x="967" y="199.91668119999997" width="42" height="227.08331880000003" fill="#326487"/><text x="988" y="450" font-size="12" text-anchor="middle" font-family="Arial" fill="#334155">Dec</text>
+<text x="95" y="490" font-size="12" fill="#6b7280" font-family="Arial">June 5/432; July 0/396; August 0/396 valid observations. Data availability, not evidence of absent vegetation response.</text></svg>

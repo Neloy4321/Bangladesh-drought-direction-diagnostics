@@ -1,0 +1,10 @@
+{
+  "status": "COMPLETE_OFFICIAL",
+  "complete_run": true,
+  "expected_eval_rows": 15600,
+  "actual_rows": 15600,
+  "null_rows": 2160,
+  "calib_min": 120,
+  "final_checks_passed": 8,
+  "note": "Synthetic truth-known climate-observation missingness. NOT new field data; NOT validation of causal hydrological relationships."
+}

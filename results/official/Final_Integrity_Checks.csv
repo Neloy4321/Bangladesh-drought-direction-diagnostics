@@ -1,0 +1,9 @@
+check,passed
+expected_completed_replicate_rows,True
+no_duplicate_keys,True
+source_masks_identical,True
+ccm_null_reference_minimum,True
+no_partial_inference,True
+zero_station_masks_unestimable,True
+all_p_values_range,True
+one_complete_per_replicate,True

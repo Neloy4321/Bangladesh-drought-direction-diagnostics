@@ -1,0 +1,40 @@
+{
+  "source_sha256": "1756c44881b1f9deb857e49a79a435ba8d836da2ae65f8dc3765e0f091ab4009",
+  "benchmark_type": "new synthetic benchmark / NOT Paper 1",
+  "runner_version": "pcmci_exact_mci_iterator_audit_v2",
+  "systems": [
+    "null_ar",
+    "weak_ar",
+    "strong_ar",
+    "common_driver",
+    "null_logistic",
+    "coupled_logistic"
+  ],
+  "original_mask_ids": [
+    "S04",
+    "S06",
+    "S08",
+    "S28",
+    "S30",
+    "S32"
+  ],
+  "strategies": [
+    "empirical",
+    "weather_month_matched"
+  ],
+  "include_complete": true,
+  "seed": 20261112,
+  "replicates": 200,
+  "calib_target": 120,
+  "max_calib_attempts": 800,
+  "method_details": "pyEDM CCM E3 Tp-1 tau-1 exclude12 sample10; Tigramite PCMCI PC-alpha0.2 MCI lags1-3 three conditions ParCorr; Granger paired 3 lag",
+  "versions": {
+    "pyEDM": "2.5.7",
+    "tigramite": "5.2.10.1",
+    "numpy": "2.1.3",
+    "pandas": "2.3.3",
+    "scipy": "1.16.3",
+    "python": "3.13.18 (main, Oct 26 2026, 15:28:15) [GCC 13.3.0]",
+    "platform": "Linux-6.18.55+-x86_64-with-glibc2.39"
+  }
+}

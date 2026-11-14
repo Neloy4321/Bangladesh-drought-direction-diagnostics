@@ -1,0 +1,6 @@
+region,stations,ERA5,NASA,era5_minus_nasa
+M,6,4,2,2
+NE,2,1,0,1
+NW,6,5,2,3
+SE,13,5,3,2
+SW,9,7,1,6

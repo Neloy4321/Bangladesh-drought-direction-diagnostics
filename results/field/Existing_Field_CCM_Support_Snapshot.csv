@@ -1,0 +1,6 @@
+cause,effect,stations_attempted,eligible,supported
+spei_pm_3,ndvi_anom,36,0,0
+spei_pm_3,ssmi1,36,36,21
+spei_pm_3,vci,36,1,1
+ssmi1,ndvi_anom,36,1,0
+ssmi1,vci,36,1,0
